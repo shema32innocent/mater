@@ -1,5 +1,5 @@
-this project is called mate
+project name is: mater
 
-hello word 
+hello word; 
 
-thank you
+thank you!
